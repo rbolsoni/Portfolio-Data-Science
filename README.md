@@ -11,7 +11,7 @@ Escreva uma descrição bem detalhada e introdutória.
 
 ## Projetos de Data Science
 
-* **Projeto 1:** [Analise de dados AirBnB - Boston](https://github.com/rbolsoni)
+* **Projeto 1:** [Analise de dados AirBnB - Boston](https://github.com/rbolsoni/Portfolio-Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_(Boston).ipynb)
 
 ---
 
