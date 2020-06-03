@@ -11,8 +11,7 @@ Escreva uma descrição bem detalhada e introdutória.
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/rbolsoni)
-* **PROJETO 2:**  [Nome do Projeto 2](https://github.com/rbolsoni)
+* **Projeto 1:** [Analise de dados AirBnB - Boston](https://github.com/rbolsoni)
 
 ---
 
@@ -20,7 +19,7 @@ Escreva uma descrição bem detalhada e introdutória.
 
 Sou Rafael Bolsoni, engenheiro ambiental e engenheiro de software. Atualmente trabalho como arquiteto de TI. Atualmente estou estudando python e Data Science.
 
-* Aluno Data Science na Prática com o @carlosfab
+* Aluno Data Science na Prática do professor [Carlos Melo](https://github.com/carlosfab) do blog [Sigmoidal](sigmoidal.ai)
 * Graduação Engenharia ambiental pela Unicid.
 * MBA em Engenharia de Software pela UniMetro.
 
