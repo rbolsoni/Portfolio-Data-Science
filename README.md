@@ -6,22 +6,21 @@ Coloque uma descrição sobre sua carreira, projetos e o que se pode esperar des
 
 Escreva uma descrição bem detalhada e introdutória.
 
-* [LinkedIn](https://www.linkedin.com/in/carlosfab//)
-* [Blog](https://sigmoidal.ai)
+* [LinkedIn](https://www.linkedin.com/in/rafabolsoni/)
+* [Medium](https://medium.com/@rafabolsoni)
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
-* **PROJETO 2:**  [Nome do Projeto 2](https://github.com/carlosfab/)
+* **PROJETO 1:** [Nome do Projeto 1](https://github.com/rbolsoni)
+* **PROJETO 2:**  [Nome do Projeto 2](https://github.com/rbolsoni)
 
 ---
 
 ### Sobre Mim:
 
-Sou Carlos Melo, Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Também sou o autor do *blog* [sigmoidal.ai](http://sigmoidal.ai), focado em Data Science, Deep Learning e Pyhton.
+Sou Rafael Bolsoni, engenheiro ambiental e engenheiro de software. Atualmente trabalho como arquiteto de TI. Atualmente estou estudando python e Data Science.
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea Canadense.
+
+* Graduação Engenharia ambiental pela Unicid.
+* MBA em Engenharia de Software pela UniMetro.
 
