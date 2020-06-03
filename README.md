@@ -19,7 +19,7 @@ Escreva uma descrição bem detalhada e introdutória.
 
 Sou Rafael Bolsoni, engenheiro ambiental e engenheiro de software. Atualmente trabalho como arquiteto de TI. Atualmente estou estudando python e Data Science.
 
-* Aluno Data Science na Prática do professor [Carlos Melo](https://github.com/carlosfab) do blog [Sigmoidal](sigmoidal.ai)
+* Aluno Data Science na Prática do professor [Carlos Melo](https://github.com/carlosfab) do blog [Sigmoidal](https://sigmoidal.ai)
 * Graduação Engenharia ambiental pela Unicid.
 * MBA em Engenharia de Software pela UniMetro.
 
