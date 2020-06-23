@@ -12,7 +12,7 @@ Escreva uma descrição bem detalhada e introdutória.
 ## Projetos de Data Science
 
 * **Projeto 1:** [Análise de dados AirBnB - Boston](https://github.com/rbolsoni/Portfolio-Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_(Boston).ipynb)
-* **Projeto 2:** [Análise da Violencia no RJ](https://github.com/rbolsoni/Portfolio-Data-Science/blob/master/Analise_da_Violencia_no_RJ.ipynb)
+* **Projeto 2:** [Análise da Violência no RJ](https://github.com/rbolsoni/Portfolio-Data-Science/blob/master/Analise_da_Violencia_no_RJ.ipynb)
 
 ---
 
