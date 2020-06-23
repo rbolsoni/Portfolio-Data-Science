@@ -2,10 +2,6 @@
 
 # Portfólio de Data Science
 
-Coloque uma descrição sobre sua carreira, projetos e o que se pode esperar deste portfólio...
-
-Escreva uma descrição bem detalhada e introdutória.
-
 * [LinkedIn](https://www.linkedin.com/in/rafabolsoni/)
 * [Medium](https://medium.com/@rafabolsoni)
 
