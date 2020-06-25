@@ -12,6 +12,10 @@
 * **Projeto 1:** [Análise de dados AirBnB - Boston](https://github.com/rbolsoni/Portfolio-Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_(Boston).ipynb)
 * **Projeto 2:** [Análise da Violência no RJ](https://github.com/rbolsoni/Portfolio-Data-Science/blob/master/Analise_da_Violencia_no_RJ.ipynb)
 
+## Artigos
+
+* [Ciência de dados e a Gestão da Qualidade 4.0](https://medium.com/@rafabolsoni/ci%C3%AAncia-de-dados-e-a-gest%C3%A3o-da-qualidade-4-0-32d44ddf2c78)
+
 ---
 
 ### Sobre Mim:
