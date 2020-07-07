@@ -11,6 +11,7 @@
 
 * **Projeto 1:** [Análise de dados AirBnB - Boston](https://github.com/rbolsoni/Portfolio-Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_(Boston).ipynb)
 * **Projeto 2:** [Análise da Violência no RJ](https://github.com/rbolsoni/Portfolio-Data-Science/blob/master/Analise_da_Violencia_no_RJ.ipynb)
+* **Projeto 3:** [Analisando dados do COVID-19](https://www.linkedin.com/pulse/an%C3%A1lise-de-dados-covid-19-mundo-rafael-bolsoni/)
 
 ## Artigos
 
